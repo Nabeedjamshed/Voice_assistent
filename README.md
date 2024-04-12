@@ -4,9 +4,9 @@ This Python script implements a simple virtual assistant using speech recognitio
 
 ## Dependencies:
 
-# speech_recognition for speech recognition functionality.
-# pyttsx3 for text-to-speech synthesis.
-# webbrowser for opening URLs in the default web browser.
+speech_recognition for speech recognition functionality.
+pyttsx3 for text-to-speech synthesis.
+webbrowser for opening URLs in the default web browser.
 Usage:
 
 Run the script and interact with the assistant by speaking voice commands.
